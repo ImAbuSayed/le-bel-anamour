@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-bel-anamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Le Bel Anamour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-bel-anamour/) |
+| **Get License** | [Obtain a Music License for Le Bel Anamour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-bel-anamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1925feb6196577bfbd342ef60a564fa9eabe46721df419244013b78a8df1484b` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
