@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-bel-anamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Le Bel Anamour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-bel-anamour/) |
+| **Get License** | [Music Rights & Licensing for Le Bel Anamour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-bel-anamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans le reflet du club, ton regard me frôle,
+> Ton parfum de luxe me fait perdre le contrôle.
+> Sous les néons de Paris, on s'attire en silence,
+> C'est le bel anamour, le début de la danse.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
